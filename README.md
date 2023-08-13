@@ -14,6 +14,6 @@ step(1).
 Following is a image showing the path taken by turtlebot to reach goal during a simulation:
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="https://github.com/adarsh2798/Bug-1_algorithm_simulation_on-ROS_GAZEBO/blob/main/assignment1/simulation_results/plot1.png" />
 </p>
 
