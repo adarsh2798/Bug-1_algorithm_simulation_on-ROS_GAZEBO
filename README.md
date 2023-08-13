@@ -12,3 +12,8 @@ and go to the location on the boundary that is closest to goal and repeat
 step(1).
 
 Following is a image showing the path taken by turtlebot to reach goal during a simulation:
+
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
+
