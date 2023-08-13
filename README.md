@@ -17,4 +17,4 @@ Following is a image showing the path taken by turtlebot to reach goal during a 
   <img src="https://github.com/adarsh2798/Bug-1_algorithm_simulation_on-ROS_GAZEBO/blob/main/assignment1/simulation_results/plot1.png" />
 </p>
 
-For further details of this implementatio, refer this [report]()
+For further details of this implementatio, refer the [report](https://github.com/adarsh2798/Bug-1_algorithm_simulation_on-ROS_GAZEBO/blob/main/assignment1/sc627_assignment1_21307R001.pdf)
