@@ -11,4 +11,4 @@ The basic tasks to be carried out for bug-1 until goal is reached are:
 and go to the location on the boundary that is closest to goal and repeat
 step(1).
 
-Foloowing is a image showing the path taken by turtlebot to reach goal during a simulation:
+Following is a image showing the path taken by turtlebot to reach goal during a simulation:
